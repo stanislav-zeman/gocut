@@ -1,0 +1,3 @@
+commands:
+  xpanes api: xpanes api1.standa.dev api2.standa.dev api3.standa.dev
+  xpanes db: xpanes db1.standa.dev db2.standa.dev
